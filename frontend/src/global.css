@@ -96,6 +96,7 @@ form textarea {
     font-size: 18px;
     text-decoration: none;
     font-weight: 500;
+    
     transition: opacity 0.2s;
     -webkit-transition: opacity 0.2s;
     -moz-transition: opacity 0.2s;
